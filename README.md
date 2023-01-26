@@ -3,7 +3,7 @@ this script allow to any user to acces your files, controle your mouse, take pic
 
 # menu
 
-*to test :*
+*to test*
 hi --> this script is raning by  the victim
 
 to write a windows command :
