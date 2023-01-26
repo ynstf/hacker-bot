@@ -1,4 +1,4 @@
 pytelegrambotapi==4.9.0
 python-decouple==3.7
-autopy
-pyautogui
+autopy==4.0.0
+pyautogui==0.9.53
