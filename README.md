@@ -3,13 +3,13 @@ this script allow to any user to acces your files, controle your mouse, take pic
 
 # menu
 *******************************
-to test :
+to test :\n
 hi --> this script is raning by  the victim
 *******************************
-to write a windows command : 
-$ ipconfig
-$ time --> time : 16:11:00,73
-$ ping 192.168.1.1
+to write a windows command : \n
+$ ipconfig\n
+$ time --> time : 16:11:00,73\n
+$ ping 192.168.1.1\n
 *******************************
 to control the mouse :
 mouse x y --> mouse 90 90
