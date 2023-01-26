@@ -5,10 +5,8 @@ import autopy
 import pyautogui
 import sys
 
-
-BOT_TOKEN = "5832009379:AAHW1u2TexAvWcMoF7oaKET-fXnmwRknJiU"
+BOT_TOKEN = config('BOT_TOKEN')
 bot= telebot.TeleBot(BOT_TOKEN)
-chat_id = 1604035230
 
 @bot.message_handler(commands=["start","help"])
 def startBot(message):
